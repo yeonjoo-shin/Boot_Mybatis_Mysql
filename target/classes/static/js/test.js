@@ -1,0 +1,6 @@
+/**
+ * 
+ */
+function start() {
+	alert("start");
+}
